@@ -67,5 +67,6 @@ app.listen(port, () => {
   console.log(`Node Server Running: ${port}`);
 });
 
+//user id password
 // DB_USER=geniusUser
 // DB_PASSWORD=RUxVmEnAWFIyYzLS
